@@ -1,0 +1,43 @@
+.video_block {
+    position: relative;
+    width: 1440px;
+    margin: auto;
+}
+.video_back {
+}
+.video_img {
+    width: 1110px;
+    height: 500px;
+    position: absolute;
+    right: 165px;
+    margin-top: 150px;
+}
+.video_play {
+    position: absolute;
+    right: 685px;
+    margin-top: 365px;
+}
+.video_title {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    color: #FFFFFF;
+    padding-top: 18px;
+    padding-left: 16px;
+}
+.video_text {
+    color: #FFFFFFCC;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-top: 12px;
+    padding-left: 16px;
+}
+.video_card {
+    width: 267px;
+    height: 224px;
+    background-color: #282828;
+    position: absolute;
+    left: 1008px;
+    bottom: 150px;
+}

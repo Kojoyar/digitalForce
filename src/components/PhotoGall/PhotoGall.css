@@ -1,0 +1,23 @@
+.photo {
+    background-color: #181818;
+    margin-top: 5rem;
+}
+.photo_block {
+    width: 1440px;
+    margin: auto;
+    height: 711px;
+}
+.photo_title {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 53.52px;
+    text-align: center;
+    padding-top: 107px;
+    color: #FFFFFF;
+}
+.photo_multi {
+    padding-top: 50px;
+}
+.react-multi-carousel-item & react-multi-carousel-item--active {
+    width: 420px !important;
+}

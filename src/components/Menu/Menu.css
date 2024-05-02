@@ -1,0 +1,37 @@
+.menu {
+    padding-top: 500px;
+    width: 1133px;
+    margin: auto;
+}
+.menu_block {
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+}
+.menu_title {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 53.52px;
+    color: #FFFFFF;
+}
+.menu_card {
+    width: 248px;
+    height: 300px;
+    border-radius: 500px 500px 18px 18px;
+    background-color: #282828;
+    margin-bottom: 28px;
+    margin-left: 28px;
+}
+.menu_img {
+    padding-top: 17px;
+    padding-left: 17px;
+}
+.menu_text {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding-left: 42px;
+    padding-top: 19px;
+}

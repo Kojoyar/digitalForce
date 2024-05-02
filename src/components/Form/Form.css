@@ -1,0 +1,53 @@
+.form {
+    width: 1440px;
+    margin: auto;
+}
+.form_block {
+    padding-top: 200px;
+    position: relative;
+}
+.form_card {
+    width: 428px;
+    height: 582px;
+    gap: 28px;
+    border-radius: 50px;
+    opacity: 0px;
+    background-color: #111111;
+    padding-left: 50px;
+    padding-top: 50px;
+    position: absolute;
+    bottom: 118px;
+    left: 506px;
+}
+.form_input {
+    display: block;
+    width: 328px;
+    height: 40px;
+    padding: 11px 16px 11px 16px;
+    border-radius: 16px;
+    border: 1px;
+    opacity: 0px;
+    color: #FFFFFFCC;
+    border: 1px solid #FFFFFF2E;
+    background-color: #282828;
+}
+.form_label {
+    padding-top: 10px;
+    font-family: Gotham Pro;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;
+    color: #FFFFFFCC;
+}
+.form_btn {
+    width: 320px;
+    height: 56px;
+    gap: 10px;
+    border-radius: 500px;
+    opacity: 0px;
+    background-color: #282828;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 28px;
+}

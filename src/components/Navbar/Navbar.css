@@ -1,0 +1,117 @@
+.navbar {
+    position: absolute;
+    right: 0rem;
+    bottom: 42rem
+}
+.nav_flex {
+    width: 1220px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav_block {
+    display: flex;
+    align-items: center;
+}
+.nav_number {
+    font-family: Bauhaus;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-bottom: 0;
+    padding-left: 5px;
+}
+.nav_email {
+    font-family: Bauhaus;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    padding-left: 5px;
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
+.nav_inst {
+    font-family: Bauhaus;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-left: 5px;
+}
+.nav_2gis {
+    font-family: Bauhaus;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color: #FFFFFF;
+    padding-left: 20px;
+    text-decoration: none;
+}
+.nav_block_btn {
+    padding-left: 20px;
+}
+.nav_btn {
+    font-family: Gotham Pro;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: center;
+    width: 173px;
+    height: 36px;
+    gap: 10px;
+    border-radius: 24px;
+    border: 1px solid #FFFFFF99;
+    color: #FFFFFFCC;
+    background-color: rgba(0, 0, 0, 0); /* Устанавливаем полностью прозрачный фон */
+}
+.nav_icons {
+    display: flex;
+    align-items: center;
+}
+.nav_icon {
+    padding-left: 20px;
+}
+.nav_logo_block {
+    width: 1220px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 24px;
+}
+.nav_link {
+    font-family: Gotham Pro;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-right: 42px;
+}
+.line_nav {
+    width: 1440px;
+    height: 0px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    angle: -0 deg;
+    border: 1px solid #FFFFFF40;
+    margin-top: 24px;
+}
+.nav_link_2 {
+    font-family: Gotham Pro;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: #FFFFFF;
+    text-decoration: none;
+}
